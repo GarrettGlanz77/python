@@ -1,0 +1,52 @@
+*{
+	margin: 0px;
+    padding: 0px;
+/* 	outline: 1px solid red; */
+}
+
+#container{
+	
+	width: 800px;
+	margin: 20px auto;
+}
+
+#templateBox{
+	background-color: rgb(0, 239, 21);
+	display:inline-block;
+	width:445px;
+	height: 300px;
+	text-align: center;
+	border: 1px solid red;
+}
+
+#templateBox a{
+	display: block;
+	margin-top:120px;
+
+}
+
+#dateBox{
+	background-color: rgb(54, 0, 239);
+	color: red;
+	font-size:40px;
+	height: 300px;
+	text-align: center;
+	border: 1px solid red;
+}
+
+#dateBox p{
+	margin-top:120px;
+}
+
+#timeBox{
+	background-color: rgb(234, 239, 18);
+	color: red;
+	font-size:40px;
+	height: 300px;
+	text-align: center;
+	border: 1px solid red;
+}
+
+#timeBox p{
+	margin-top:120px;
+}
